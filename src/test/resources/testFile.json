@@ -1,0 +1,14 @@
+{
+  "dishname": "stew",
+  "difficult": "medium",
+  "availability": "anywhere",
+  "ingridients":
+    {
+      "meat": true,
+      "vegetables": true,
+      "oil": true,
+      "salt": true,
+      "pepper": true
+    },
+  "price": 300
+}
